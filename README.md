@@ -1,2 +1,44 @@
-# TCR
+# Team Contest Reference
 Team contest reference for competitive programming
+
+## Contents
+- Template
+- Maths
+  - GCD
+  - Extended GCD
+  - LCM
+  - Factorization
+  - Miller-Rabin
+  - Binary search
+  - Josephus problem
+  - 2-SAT
+  - FTT
+  - Integer partitioning
+  - Fibonacci numbers
+  - Catalan numbers
+  - Chinese reminder theorem
+- Geometry
+  - Convex hull
+  - Cross product
+  - Polygon area
+- Grpahs
+  - Dijkstra
+  - Floyd-Warshall
+  - Bellman-Ford (negative cycles)
+  - Dinic (maxflow)
+  - Disjoint set (union find)
+  - MST (Kruskal)
+  - Topsort
+  - Segment tree
+  - Kosaraju (SCCs)
+  - Lowest Common Ancestor
+  - Sparse Table
+  - Fenwick tree
+  - Euler path
+- Text
+  - Levenshtein distance
+  - KMP
+  - Mo's
+  - Trie
+  - Rabin-Karp
+  - Manacher's
